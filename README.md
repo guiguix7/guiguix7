@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Start coding</p>
+<p align="left">Starting coding</p>
 
 ###
 
