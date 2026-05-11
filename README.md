@@ -49,7 +49,7 @@ I'm currently focused on frontend development while studying **backend fundament
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -59,7 +59,7 @@ I'm currently focused on frontend development while studying **backend fundament
 
 ### **DevOps & Tools**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -68,11 +68,11 @@ I'm currently focused on frontend development while studying **backend fundament
 ## 📈 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guiguix7&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dracula&hide_border=true&cache_seconds=21600" height="150" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiguix7&theme=dracula" height="150" alt="GitHub stats" />
   <br />
   <img src="https://streak-stats.demolab.com?user=guiguix7&theme=dracula&hide_border=true&border_radius=8" height="150" alt="GitHub streak" />
   <br />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=guiguix7&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&cache_seconds=21600" height="150" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guiguix7&theme=dracula" height="150" alt="Top languages" />
 </div>
 
 ---
