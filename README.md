@@ -79,3 +79,5 @@ I'm currently focused on frontend development while studying **backend fundament
 
 ⭐ Consider starring one of my repositories  
 🤝 Open to collaborations, study projects, and new ideas
+
+![snake gif](https://github.com/guiguix7/guiguix7/blob/output/github-contribution-grid-snake.svg)
