@@ -4,7 +4,7 @@
 🇧🇷 Brazil
 
 I build **functional web apps**, **high-quality interfaces**, and **clean, maintainable systems**.  
-I'm currently focused on frontend development while studying **backend fundamentals, web architecture, and professional development practices**.
+I'm currently focused on frontend development while studying **backend fundamentals, web architecture, and professional development practices, problems solving and debug code**.
 
 ---
 
