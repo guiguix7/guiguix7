@@ -20,11 +20,8 @@ I'm currently focused on frontend development while studying **backend fundament
   <a href="https://www.linkedin.com/in/guilhermeandraz/">
     <img src="https://img.shields.io/badge/LinkedIn-GUILHERME--ANDRAZ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/eogui.guigui">
-    <img src="https://img.shields.io/badge/Instagram-@eogui.guigui-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5511934154282">
-    <img src="https://img.shields.io/badge/WhatsApp-5511934154282-25D366?style=for-the-badge&logo=whatsapp" />
+  <a href="https://instagram.com/eogui.andraz">
+    <img src="https://img.shields.io/badge/Instagram-@eogui.andraz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
