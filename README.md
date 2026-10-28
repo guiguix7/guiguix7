@@ -70,6 +70,7 @@ I'm currently focused on frontend development while studying **backend fundament
   <img src="https://streak-stats.demolab.com?user=guiguix7&theme=dracula&hide_border=true&border_radius=8" height="150" alt="GitHub streak" />
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guiguix7&theme=dracula" height="150" alt="Top languages" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
