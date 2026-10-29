@@ -65,12 +65,26 @@ I'm currently focused on frontend development while studying **backend fundament
 ## 📈 Stats
 
 <div align="center">
+  <!-- Troféus -->
+  <img src="https://github-profile-trophy.vercel.app/?username=guiguix7&theme=dracula&row=1&column=6" alt="Trophies" />
+  <br /><br />
+  
+  <!-- Estatísticas Gerais e Streak (Lado a Lado) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiguix7&theme=dracula" height="150" alt="GitHub stats" />
-  <br />
   <img src="https://streak-stats.demolab.com?user=guiguix7&theme=dracula&hide_border=true&border_radius=8" height="150" alt="GitHub streak" />
-  <br />
+  <br /><br />
+
+  <!-- Linguagens (Lado a Lado) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guiguix7&theme=dracula" height="150" alt="Top languages" />
-  [![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guiguix7&theme=dracula" height="150" alt="Repos per language" />
+  <br /><br />
+
+  <!-- Gráfico de Atividade (Ocupa a largura toda) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guiguix7&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <br />
+
+  <!-- Contador de Visitas -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=guiguix7.guiguix7" alt="Visitors" />
 </div>
 
 ---
@@ -78,8 +92,24 @@ I'm currently focused on frontend development while studying **backend fundament
 ⭐ Consider starring one of my repositories  
 🤝 Open to collaborations, study projects, and new ideas
 
+<!-- Animação da Cobrinha -->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guiguix7/guiguix7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guiguix7/guiguix7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guiguix7/guiguix7/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guiguix7/guiguix7/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- 
+  ========================================================
+  CARTÕES EXTRAS (Descomente se quiser usar e configurar)
+  ========================================================
+  
+  **Spotify (Requer configuração do GitHub Actions):**
+  ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_UID&cover_image=true&theme=default)
+  
+  **DevCard:**
+  ![DevCard](https://devcard.pavegy.workers.dev/api?username=guiguix7)
+  
+  **Fox Streak:**
+  ![Fox Streak](https://coolreadme.xyz/api/fox-card?user=guiguix7)
+-->
