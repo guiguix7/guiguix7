@@ -82,38 +82,43 @@ I'm also interested in finance, technology, and the systems behind everyday tool
 
 ## 📈 GitHub activity
 
-## 📈 GitHub activity
-
-<p align="center">
-  <!-- Resumo geral de commits (Ocupa a largura toda) -->
+<div align="center">
+  <!-- Gráfico de Resumo Geral (Ocupa a largura toda) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiguix7&theme=tokyonight" alt="GitHub contribution summary" width="100%" />
-</p>
+  
+  <br><br>
 
-<p align="center">
-  <!-- Estatísticas Gerais e Sequência (Lado a Lado) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=guiguix7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=guiguix7&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
-</p>
+  <!-- Estatísticas Gerais e Sequência -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiguix7&theme=tokyonight" height="150" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=guiguix7&theme=tokyonight&hide_border=true" height="150" alt="GitHub streak" />
 
-<p align="center">
-  <!-- Linguagens Principais e Troféus (Lado a Lado) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiguix7&layout=compact&theme=tokyonight&hide_border=true" alt="Most used commit languages" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=guiguix7&theme=tokyonight&row=1&column=3&margin-w=15&margin-h=15" alt="Trophies" height="165" />
-</p>
+  <br><br>
 
-<p align="center">
-  <!-- Gráfico de Atividade (Ocupa a largura toda) -->
+  <!-- Top Linguagens por Commit e por Repositório (Como você pediu) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guiguix7&theme=tokyonight" height="150" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guiguix7&theme=tokyonight" height="150" alt="Top Languages by Repo" />
+
+  <br><br>
+
+  <!-- Gráfico de Atividade (Se continuar quebrado, é só apagar esta linha) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guiguix7&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
----
+  
+  <br><br>
+
+  <!-- Troféus (Se continuar quebrado, é só apagar esta linha) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=guiguix7&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</div>
 
 <p align="center">
   <strong>Build things. Stay curious. Keep learning.</strong>
   <br />
   Open to learning projects, collaboration, and constructive feedback.
 </p>
+<p align="center">
 ⭐ Consider starring one of my repositories  
+  <br />
 🤝 Open to collaborations, study projects, and new ideas
+</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guiguix7/guiguix7/output/github-contribution-grid-snake-dark.svg">
