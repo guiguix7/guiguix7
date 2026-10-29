@@ -65,8 +65,8 @@ I'm currently focused on frontend development while studying **backend fundament
 ## 📈 Stats
 
 <div align="center">
-  <!-- Troféus -->
-  <img src="https://github-profile-trophy.vercel.app/?username=guiguix7&theme=dracula&row=1&column=6" alt="Trophies" />
+  <!-- Troféus (URL simplificada para tentar evitar erros) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=guiguix7&theme=dracula" alt="Trophies" />
   <br /><br />
   
   <!-- Estatísticas Gerais e Streak (Lado a Lado) -->
@@ -79,8 +79,8 @@ I'm currently focused on frontend development while studying **backend fundament
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guiguix7&theme=dracula" height="150" alt="Repos per language" />
   <br /><br />
 
-  <!-- Gráfico de Atividade (Ocupa a largura toda) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guiguix7&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <!-- Gráfico de Atividade (URL simplificada) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guiguix7&theme=dracula" width="100%" alt="Activity Graph" />
   <br />
 
   <!-- Contador de Visitas -->
