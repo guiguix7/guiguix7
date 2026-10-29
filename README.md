@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:2563EB&height=210&section=header&text=Guilherme%20Andraz&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Code%20%7C%20Curiosity%20%7C%20Creative%20Ideas&descAlignY=58&descSize=16" alt="Guilherme Andraz — Code, Curiosity, Creative Ideas" width="100%" />
-</p>
-
 <h1 align="center">Hey, I'm Guilherme 👋</h1>
 
 <p align="center">
@@ -23,6 +19,15 @@ I'm a Systems Development student at **ETEC Martinho Di Ciero**, from Brazil. I 
 **Web development is my main focus right now** — especially interfaces, applications, APIs, and the connection between frontend, backend, and databases. I also like exploring the bigger picture: how software interacts with security, data, AI, finance, and creative work.
 
 I'm curious by nature, so my interests go beyond one language or framework. I don't claim to master every field listed here; some are technologies I use in projects, while others are subjects I want to explore step by step.
+
+## 🧠 What I do
+
+- 🏗️ Web applications & APIs  
+- ⚡ Performance-oriented development  
+- 🧩 Clean, scalable architecture  
+- 🔐 Authentication, authorization & security  
+- 🤖 Automations & integrations  
+- 📊 Dashboards & data-driven interfaces
 
 ## 🧭 What I'm focused on
 
@@ -49,24 +54,11 @@ A collaborative ASP.NET Core MVC project for organizing van transportation. The 
 
 **Built with:** C# · ASP.NET Core MVC · Entity Framework Core · SQLite · Bootstrap
 
-### [Personal Portfolio](https://github.com/guiguix7/Landing-Page)
-My own portfolio site, built to present my profile, technologies, projects, education, and contact information. It includes responsive layouts, interactive technology details, and Portuguese/English content.
-
-**Built with:** HTML · CSS · JavaScript
-
 ## 🛠️ Technologies I've worked with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,cs,dotnet,postgres,sqlite,flutter,dart,git,github,figma,vercel&perline=6" alt="Technologies and tools I have worked with" />
 </p>
-
-**Web:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS  
-**Backend:** Node.js, Express, C#, ASP.NET Core MVC  
-**Data:** SQL, PostgreSQL, SQLite, Supabase  
-**Mobile:** Flutter, Dart  
-**Tools:** Git, GitHub, Vercel, Figma
-
-This list represents technologies I've used, studied, or applied in projects—not a claim of expert-level proficiency in every tool.
 
 ## 🔭 What I want to explore next
 
@@ -84,7 +76,7 @@ I don't expect to learn everything at once. My approach is to stay curious, stud
 
 ## 🎧 Beyond code
 
-Music is one of my interests outside software. I enjoy the creative side of making things, and I like the idea that programming can support both practical tools and artistic projects. Working on Drazyx gives me a way to bring those worlds together.
+Music is one of my interests outside software. I enjoy the creative side of making things, and I like the idea that programming can support both practical tools and artistic projects. 
 
 I'm also interested in finance, technology, and the systems behind everyday tools. I like learning how things work—not only how to use them.
 
@@ -93,12 +85,15 @@ I'm also interested in finance, technology, and the systems behind everyday tool
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiguix7&theme=tokyonight" alt="GitHub contribution summary" width="100%" />
 </p>
-
+<img src="https://github-profile-trophy.vercel.app/?username=guiguix7&theme=dracula" alt="Trophies" />
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiguix7&theme=tokyonight" alt="GitHub statistics" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guiguix7&theme=tokyonight" alt="Most used commit languages" height="165" />
 </p>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiguix7&theme=dracula" height="150" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=guiguix7&theme=dracula&hide_border=true&border_radius=8" height="150" alt="GitHub streak" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guiguix7&theme=dracula" height="150" alt="Repos per language" /> 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=guiguix7&theme=dracula" width="100%" alt="Activity Graph" />
 ---
 
 <p align="center">
@@ -106,3 +101,11 @@ I'm also interested in finance, technology, and the systems behind everyday tool
   <br />
   Open to learning projects, collaboration, and constructive feedback.
 </p>
+⭐ Consider starring one of my repositories  
+🤝 Open to collaborations, study projects, and new ideas
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guiguix7/guiguix7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guiguix7/guiguix7/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guiguix7/guiguix7/output/github-contribution-grid-snake.svg">
+</picture>
