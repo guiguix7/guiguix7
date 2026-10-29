@@ -82,18 +82,29 @@ I'm also interested in finance, technology, and the systems behind everyday tool
 
 ## 📈 GitHub activity
 
+## 📈 GitHub activity
+
 <p align="center">
+  <!-- Resumo geral de commits (Ocupa a largura toda) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiguix7&theme=tokyonight" alt="GitHub contribution summary" width="100%" />
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=guiguix7&theme=dracula" alt="Trophies" />
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiguix7&theme=tokyonight" alt="GitHub statistics" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guiguix7&theme=tokyonight" alt="Most used commit languages" height="165" />
+  <!-- Estatísticas Gerais e Sequência (Lado a Lado) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=guiguix7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=guiguix7&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
 </p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiguix7&theme=dracula" height="150" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=guiguix7&theme=dracula&hide_border=true&border_radius=8" height="150" alt="GitHub streak" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guiguix7&theme=dracula" height="150" alt="Repos per language" /> 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=guiguix7&theme=dracula" width="100%" alt="Activity Graph" />
+
+<p align="center">
+  <!-- Linguagens Principais e Troféus (Lado a Lado) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiguix7&layout=compact&theme=tokyonight&hide_border=true" alt="Most used commit languages" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=guiguix7&theme=tokyonight&row=1&column=3&margin-w=15&margin-h=15" alt="Trophies" height="165" />
+</p>
+
+<p align="center">
+  <!-- Gráfico de Atividade (Ocupa a largura toda) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guiguix7&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
 ---
 
 <p align="center">
