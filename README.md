@@ -82,24 +82,23 @@ I'm also interested in finance, technology, and the systems behind everyday tool
 
 ## 📈 GitHub activity
 
-<div align="center">
+<p align="center">
+  <!-- Card de Sequência (Streak Stats) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiguix7&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-  <!-- Card do Topo (Header / Contribuições) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=guiguix7&show_icons=true&theme=tokyonight" width="98%" alt="Header Stats" />
-
-  <br><br>
-
-  <!-- Linha 1: Stats + Streak Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=guiguix7&show_icons=true&theme=tokyonight" width="48%" alt="Estatísticas" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiguix7&theme=tokyonight" width="48%" alt="Streak Stats" />
-
-  <br><br>
-
-  <!-- Linha 2: Linguagens por Commit + Linguagens por Repo -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiguix7&layout=donut&theme=tokyonight" width="48%" alt="Linguagens Commit" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiguix7&layout=donut&theme=tokyonight" width="48%" alt="Linguagens Repo" />
-
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=guiguix7&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiguix7&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 <p align="center">
   <strong>Build things. Stay curious. Keep learning.</strong>
