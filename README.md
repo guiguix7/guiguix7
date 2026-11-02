@@ -57,7 +57,7 @@ A collaborative ASP.NET Core MVC project for organizing van transportation. The 
 ## 🛠️ Technologies I've worked with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,cs,dotnet,postgres,sqlite,flutter,dart,git,github,figma,vercel&perline=6" alt="Technologies and tools I have worked with" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,cs,dotnet,postgres,sqlite,flutter,dart,git,github,docker,vercel&perline=6" alt="Technologies and tools I have worked with" />
 </p>
 
 ## 🔭 What I want to explore next
