@@ -83,30 +83,22 @@ I'm also interested in finance, technology, and the systems behind everyday tool
 ## 📈 GitHub activity
 
 <div align="center">
-  <!-- Gráfico de Resumo Geral (Ocupa a largura toda) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiguix7&theme=tokyonight" alt="GitHub contribution summary" width="100%" />
-  
-  <br><br>
 
-  <!-- Estatísticas Gerais e Sequência -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiguix7&theme=tokyonight" height="150" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=guiguix7&theme=tokyonight&hide_border=true" height="150" alt="GitHub streak" />
+  <!-- Card do Topo (Header / Contribuições) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=guiguix7&show_icons=true&theme=tokyonight" width="98%" alt="Header Stats" />
 
   <br><br>
 
-  <!-- Top Linguagens por Commit e por Repositório (Como você pediu) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guiguix7&theme=tokyonight" height="150" alt="Top Languages by Commit" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guiguix7&theme=tokyonight" height="150" alt="Top Languages by Repo" />
+  <!-- Linha 1: Stats + Streak Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=guiguix7&show_icons=true&theme=tokyonight" width="48%" alt="Estatísticas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiguix7&theme=tokyonight" width="48%" alt="Streak Stats" />
 
   <br><br>
 
-  <!-- Gráfico de Atividade (Se continuar quebrado, é só apagar esta linha) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guiguix7&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
-  
-  <br><br>
+  <!-- Linha 2: Linguagens por Commit + Linguagens por Repo -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiguix7&layout=donut&theme=tokyonight" width="48%" alt="Linguagens Commit" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiguix7&layout=donut&theme=tokyonight" width="48%" alt="Linguagens Repo" />
 
-  <!-- Troféus (Se continuar quebrado, é só apagar esta linha) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=guiguix7&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </div>
 
 <p align="center">
