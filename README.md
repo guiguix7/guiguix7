@@ -82,23 +82,18 @@ I'm also interested in finance, technology, and the systems behind everyday tool
 
 ## 📈 GitHub activity
 
-<p align="center">
-  <!-- Card de Sequência (Streak Stats) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiguix7&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <!-- Gráfico de Resumo Geral (Ocupa a largura toda) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiguix7&theme=tokyonight" alt="GitHub contribution summary" width="100%" />
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=guiguix7&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiguix7&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
-      </td>
-    </tr>
-  </table>
-</p>
+  <!-- Estatísticas Gerais e Sequência -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiguix7&theme=tokyonight" height="150" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=guiguix7&theme=tokyonight&hide_border=true" height="150" alt="GitHub streak" />
+
+  <!-- Top Linguagens por Commit e por Repositório (Como você pediu) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guiguix7&theme=tokyonight" height="150" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guiguix7&theme=tokyonight" height="150" alt="Top Languages by Repo" />
+</div>
 
 <p align="center">
   <strong>Build things. Stay curious. Keep learning.</strong>
