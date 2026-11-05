@@ -37,23 +37,6 @@ I'm curious by nature, so my interests go beyond one language or framework. I do
 - Exploring mobile development with Flutter and Dart.
 - Understanding the fundamentals behind performance, privacy, and secure software.
 
-## 🧪 Selected projects
-
-### [Orva — Personal Organization App](https://github.com/guiguix7/Orva)
-A Flutter application for organizing goals, checklists, routines, hobbies, notes, and a diary. It prioritizes **offline use and local data storage**.
-
-**Built with:** Flutter · Dart · Riverpod · Drift · SQLite
-
-### [Drazyx — Artist Website](https://github.com/guiguix7/Drazyx)
-A website for an independent music artist, bringing together music, releases, beats, biography, services, and contact. This project connects two of my interests: **software development and music**.
-
-**Built with:** React · TypeScript · Vite · Tailwind CSS · React Router · Supabase
-
-### [EasyVan — Van Transportation Management](https://github.com/guiguix7/EasyVan)
-A collaborative ASP.NET Core MVC project for organizing van transportation. The documented work includes user registration and persistence, form validation, user CRUD operations, and search and filters for van listings. Some features are still in development.
-
-**Built with:** C# · ASP.NET Core MVC · Entity Framework Core · SQLite · Bootstrap
-
 ## 🛠️ Technologies I've worked with
 
 <p align="center">
