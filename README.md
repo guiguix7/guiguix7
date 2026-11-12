@@ -49,17 +49,17 @@ I'm a Systems Development student at **ETEC Martinho Di Ciero**, from Brazil. I 
 
 <p align="center">
   <strong>Databases & Backend</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,firebase&perline=4" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,mongodb&perline=4" />
 </p>
 
 <p align="center">
   <strong>DevOps, Tools & Systems</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,powershell,vercel,railway&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,railway&perline=8" />
 </p>
 
 <p align="center">
   <strong>AI & Development Tools</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode,pycharm&perline=4" />
+  <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode&perline=4" />
 </p>
 
 ## 🔭 What I want to explore next
