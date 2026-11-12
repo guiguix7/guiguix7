@@ -71,7 +71,11 @@ I'm also interested in finance, technology, and the systems behind everyday tool
 
   <!-- Estatísticas Gerais e Sequência -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiguix7&theme=tokyonight" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=guiguix7&theme=tokyonight&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img
+  src="https://github-stats-extended.vercel.app/api?username=guiguix7&theme=tokyonight&show_icons=true"
+  height="180"
+  alt="GitHub Stats"
+/>
 
   <!-- Top Linguagens por Commit e por Repositório (Como você pediu) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guiguix7&theme=tokyonight" height="150" alt="Top Languages by Commit" />
