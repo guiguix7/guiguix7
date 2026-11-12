@@ -42,15 +42,6 @@ I believe in learning by building, experimenting, and continuously improving.
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,powershell,vscode,visualstudio&perline=8" />
 </p>
 
-**AI & AI-Assisted Development**
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCode-18181B?style=flat-square&logo=terminal&logoColor=white" />
-</p>
-
 ### 🎯 Current Interests
 
 - Full-stack development and software architecture.
@@ -68,6 +59,8 @@ I believe in learning by building, experimenting, and continuously improving.
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=guiguix7&theme=tokyonight&show_icons=true" height="175" alt="GitHub statistics and rank" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guiguix7&theme=tokyonight" height="175" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guiguix7&theme=tokyonight" height="150" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiguix7&theme=tokyonight" height="150" alt="GitHub stats" />
 </p>
 
 ---
