@@ -18,8 +18,6 @@ I'm a Systems Development student at **ETEC Martinho Di Ciero**, from Brazil. I 
 
 **Web development is my main focus right now** — especially interfaces, applications, APIs, and the connection between frontend, backend, and databases. I also like exploring the bigger picture: how software interacts with security, data, AI, finance, and creative work.
 
-I'm curious by nature, so my interests go beyond one language or framework. I don't claim to master every field listed here; some are technologies I use in projects, while others are subjects I want to explore step by step.
-
 ## 🧠 What I do
 
 - 🏗️ Web applications & APIs  
@@ -40,7 +38,28 @@ I'm curious by nature, so my interests go beyond one language or framework. I do
 ## 🛠️ Technologies I've worked with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,cs,dotnet,postgres,sqlite,flutter,dart,git,github,docker,vercel&perline=6" alt="Technologies and tools I have worked with" />
+  <strong>Languages & Frameworks</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,dart&perline=7" />
+</p>
+
+<p align="center">
+  <strong>Libraries & Frameworks</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,dotnet,flutter&perline=6" />
+</p>
+
+<p align="center">
+  <strong>Databases & Backend</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,firebase&perline=4" />
+</p>
+
+<p align="center">
+  <strong>DevOps, Tools & Systems</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,powershell,vercel,railway&perline=8" />
+</p>
+
+<p align="center">
+  <strong>AI & Development Tools</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode,pycharm&perline=4" />
 </p>
 
 ## 🔭 What I want to explore next
